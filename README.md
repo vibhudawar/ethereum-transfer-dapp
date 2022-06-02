@@ -22,6 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Preview
 
-https://user-images.githubusercontent.com/81639340/171578347-2a7da0e8-558e-461d-848d-0063ca3011ff.png
+<img width="1440" alt="ethereum-tranfer-dapp" src="https://user-images.githubusercontent.com/81639340/171584354-13a81466-3009-41b4-8d5b-1e181f51d5c9.png">
 
 If you like the project, support by giving it a star.
