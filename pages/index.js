@@ -173,7 +173,7 @@ export default function Home() {
             </a>
           </p>
           <a
-            href="https://github.com/mukulrajpoot262610/eth-transfer-dapp"
+            href="https://github.com/vibhudawar/ethereum-transfer-dapp"
             target="_blan"
           >
             <span className="flex items-center hover:underline font-bold cursor-pointer">
